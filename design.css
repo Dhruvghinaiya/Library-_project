@@ -1,0 +1,203 @@
+.sidebar{
+    background-color: whitesmoke;
+    padding: 0%;
+    width:320px;
+    height:400px;
+     color: rgba(36, 66, 165, 0.795);
+    font-size: 23px;
+}
+.admin_navbar{
+
+        background-color: rgb(7, 186, 206);       
+}
+.login{
+
+    position: relative;
+    bottom: 4000px;
+    background-color: aquamarine;
+}
+
+.test{
+
+    position: relative;
+    right: 30px;
+    color: blue;
+
+}
+.ul{
+
+    text-align: left;
+    justify-content: center;
+    justify-items: center;
+}
+
+.main_content {
+    text-align:center ;
+    justify-items: center;  
+}
+
+.form{
+    position: relative;
+    left: 325px;
+    top: 500px;
+}
+.form1{
+    width: 50px;
+}
+.h2{
+
+    text-align: center;
+    justify-items: center;
+}
+
+.register1{
+    position: relative;
+    bottom: 390px;
+    left:335px;
+    color: rgb(137, 213, 44);
+}
+
+.register2{
+    position: relative;
+    bottom:890px;
+    
+}
+
+.top{
+
+    position: relative;
+    top: 10px;
+}
+
+.gender{
+
+    font-size: 18px;
+}
+
+.view_profile_form{
+    position: relative;
+    left: 260px;
+
+}
+
+#id{
+    position: relative;
+    left: 500px;
+}
+.pass{
+    position: relative;
+    left: 290px;
+}
+
+
+.card{
+    width: 270px;
+
+}
+.user{
+
+    position: relative;
+    left: 50px;
+}
+
+.book{
+    position: relative;
+    bottom: 170px;
+    left: 350px;
+}
+
+.category{
+    position: relative;
+    bottom: 339px;
+    left: 650px;
+}
+
+.author{
+    position: relative;
+    bottom: 310px;
+    left: 50px
+}
+
+.issue{
+    position: relative;
+    bottom: 480px;
+    left: 350px;
+
+}
+
+.table_user{
+    
+    text-align: right;
+    position: relative;
+    left: 190px;
+    line-height: 20px;
+    height: 500px;
+}
+
+
+.table_book1{
+    
+    text-align: right;
+    position: relative;
+    left: 240px;
+    font-size: 23px;
+    height: 130px;
+    width: 500px;
+}
+
+.table_book2{
+    text-align: center;
+}
+
+.table_category{
+    font-size: 25px;
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 350px;
+}
+
+.table_issued{
+    font-size: 25px;
+    width: 300px;
+    height: 50px;
+    position: relative;
+    left: 250px; 
+}
+
+.add_book{
+    position: relative;
+    left: 330px;
+}
+.table_view_book{
+    font-size: 20px;
+}
+
+.header{
+    height: 70px;
+}
+
+.header{
+    
+}
+.link1{
+    position: relative;
+    right: 300px;
+    top: 10px;
+}
+
+.link2{
+    position: relative;
+    right: 280px;
+    top: 11px;
+}
+
+.link3{
+    position: relative;
+    right: 250px;
+    top: 11px;
+}
+
+
+
+
